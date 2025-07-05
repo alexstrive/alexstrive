@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alexey 👋
 
-<!--
-**alexstrive/alexstrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with a focus on building scalable, highly available distributed systems. I work across backend architecture and applied AI, with a pragmatic, result-oriented approach. Security is an integral part of my development process, and I bring proficiency in secure system design and implementation.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Languages:** Java, Kotlin, Node.js  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins  
+- **Data & Search:** Kafka, OpenSearch, ElasticSearch, DataPrepper  
+- **Security:** Application and infrastructure-level security best practices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Interests
+- Distributed systems
+- Backend engineering
+- Applied AI in production systems
+
+🔗 [alexstrive.com](https://alexstrive.com)
