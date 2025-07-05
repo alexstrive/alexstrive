@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with a focus on building scalable, highly availab
 
 ### 🛠️ Tech Stack
 - **Languages:** Java, Kotlin, Node.js  
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins  
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, HashiCorp Vault 
 - **Data & Search:** Kafka, OpenSearch, ElasticSearch, DataPrepper  
 - **Security:** Application and infrastructure-level security best practices
 
